@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen_common.css');
+    @import url('common/print.css') print;
+  /*]]>*/
+  </style>
+  <title>Field of Dreams ~ Volunteers &amp; Funding / Sponsors</title>
+</head>
+<body>
+<div id='headWrapper'><a name='TOP' id='TOP'>&nbsp;</a></div>
+<div id='mainContWrapper'>
+  <div id='mainContent'>
+    <div class='contContent'>
+      <h1>Field of Dreams ~ Volunteers &amp; Funding</h1>
+      <img src='imgs/gallery/sm/kidsChequesWideSm.jpg' alt='kids' width='490' height='95' />
+      <h2>About the Volunteer Workers &amp; Funding / Sponsors:</h2>
+      <p>
+      This pages function is to serve as an overview for the subjects of Volunteers and Funding helpers. The links below will take you to the relevant pages for each subject:
+      </p>
+      <div class='halfL large noLink'>
+        <h2>About the Volunteers:</h2>
+        <a href='volunteers.html' title='About the Volunteers' class='linkNext'>Continue to Volunteers</a>
+        <hr />
+        <h2>Introduction to the Volunteers</h2>
+        <p>
+        Over the last few years there have been several International volunteers that have helped out at Field of Dreams. They have come from far and wide and all have taken away a piece of Africa with them as it is never just a one way process.
+        </p>
+        <h2>The quick list</h2>
+        <ul>
+        <li>
+          No Age Restriction
+        </li><li>
+          No Religious or Political Views
+        </li><li>
+          Any Race, Creed or Colour
+        </li><li>
+          Share your Life Skills &amp; Skill Sets
+        </li><li>
+          Teach others less fortunate than you
+        </li>
+        </ul>
+        <h2>Aims for our volunteers</h2>
+        <p>
+        The aim is to help people with less than yourselves with an open mind and heart. A willingness to educate and guide people to better themselves is also essential. To read more please use the link below: 
+        </p>
+        <a href='volunteers.html' title='About the Volunteers' class='aRight linkNext'>Read more about Volunteers</a>
+      </div>
+      <div class='halfR large'>
+        <h2>About Funding / Sponsorship:</h2>
+        <a href='funding.html' title='About the Funding' class='linkNext'>Continue to Funding</a>
+        <hr />
+        <p>
+        We need help with General day to day running costs. To this end we already have several organisations who contribute yearly to specific projects.
+        </p>
+        <h2>NG Church Nelspruit</h2>
+        <p>
+        A family cell group from Nelspruit who supply us with second hand furniture, sundries and food.
+        </p>
+        <h2>Seed of Light</h2>
+        <p>
+        A United States group of individuals who supply a quarterly budget to help facilitate basic running costs.
+        </p>
+        <h2>Friends of Esperado (Jersey)</h2>
+        <p>
+        A British organisation who help supply funds for specific projects and needs.
+        </p>
+        <h2>Pick n' Pay</h2>
+        <p>
+        South African Super Market chain who supply food three times a week to the farm and has done so for more than 12 years.
+        </p>
+        <a href='funding.html' title='About the Funding' class='aRight linkNext'>More about Funding &amp; Sponsors</a>
+      </div>
+      <div id='eopTxt'>
+        // Ends &nbsp; <a href='#TOP' title='Top of Page'>^ Top of Page</a>
+      </div> 
+    </div>
+  </div>
+  <div id='verticalRhNav'>
+    <h2>Main content links</h2>
+    <ul>
+    <li>
+      <a href='index.html' title='Home Page'>Home Page</a>
+    </li><li>
+      <a href='achievements.html' title='Our Achievements'>Achievements</a>
+    </li><li>
+      <a href='history.html' title='A Brief History of Field Of Dreams'>A Brief History</a>
+    </li><li>
+      <a href='meet_the_kids.html' title='Meet the Children'>Meet the Children</a>
+    </li><li>
+      <a href='about_sophia.html' title='About Sophia Jardim'>About Sophia Jardim</a>
+    </li><li>
+      <a href='about_fod.html' title='About Field of Dreams'>About Field of Dreams</a>
+    </li><li>
+      <a href='volunteers_funding.html' title='Volunteers &amp; Funding'>Volunteers &amp; Funding</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact Us</a>
+    </li><li>
+      <a href='sitemap.html' title='Sitemap'>&lt;&lt; Sitemap &gt;&gt;</a>
+    </li>
+    </ul>
+    <h2>Sophia Jardim</h2>
+    <a href='about_sophia.html' title='Sophia Jardim'>
+    <img src='imgs/gallery/sm/sophiaSm.jpg' alt='' width='150' height='100' class='navImg' /></a>
+    <div class='quote'>
+      As a shelter for homeless children we plan a safe and secure home by providing care and support, which will lead to: openness, integrity, self-esteem, trust and exposure to education &amp; training.
+    </div>
+    <div class='aRight smTxt italic'>
+      ~ Sophia Jardim
+    </div>
+  </div>
+  <div id='footBreak'></div>
+</div>
+<div id='footer'>
+  <div class='left'>
+    Pictures: Jacaranda tree in back garden of the farm &amp; Casandra with Amanda.
+  </div>
+  <div class='right'>
+    &copy; 2008 Field of Dreams
+  </div>
+</div>
+</body>
+</html>

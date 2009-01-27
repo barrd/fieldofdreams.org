@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen_common.css');
+    @import url('common/print.css') print;
+    .backGround { background: url(imgs/shared/bgDove.png) no-repeat 50% 65%; }
+  /*]]>*/
+  </style>
+  <title>Field of Dreams ~ Rights and Responsibilities</title>
+</head>
+<body>
+<div id='headWrapper'><a name='TOP' id='TOP'>&nbsp;</a></div>
+<div id='mainContWrapper'>
+  <div id='mainContent'>
+    <div class='contContent backGround'>
+      <h1>Rights and Responsibilities of the Children</h1>
+      <img src='imgs/gallery/sm/meetChildrenWideSm.jpg' alt='img' width='490' height='100' />
+      <h2>The Children's Rights and Responsibilities on the farm:</h2>
+      <ol>
+      <li>
+        Children have the right to be taken seriously, and the responsibility to listen to others.
+      </li><li>
+        Children have the right to make mistakes, and the responsibility to learn from those mistakes.
+      </li><li>
+        Children have the right to quality medical care, and the responsibility to take care of themselves.
+      </li><li>
+        Children have the right to good education, and the responsibility to study and respect their teachers.
+      </li><li>
+        Children have the right to be loved and protected from harm, and the responsibility to show others love and caring.
+      </li><li>
+        Children have the right to get special care for special needs, and the responsibility to be the best people they can be.
+      </li><li>
+        Children have the right to be proud of their heritage and beliefs, and have responsibility to respect the origins and beliefs of others.
+      </li><li>
+        Children have the right to a safe and comfortable home, and the responsibility to keep it neat and clean.
+      </li>
+      </ol>
+      <div class='aRight'>
+        <p>------ Continue ---</p>
+        <a href='meet_the_kids.html' title='Back to the Children' class='linkBack'>Back to the Children</a> 
+        &nbsp; &#93; &#91; &nbsp; 
+        <a href='about_fod.html' title='About Field of Dreams' class='linkNext'>About Field of Dreams</a>
+      </div>
+      <div id='eopTxt'>
+        // Ends &nbsp; <a href='#TOP' title='Top of Page'>^ Top of Page</a>
+      </div> 
+    </div>
+  </div>
+  <div id='verticalRhNav'>
+    <h2>Main content links</h2>
+    <ul>
+    <li>
+      <a href='index.html' title='Home Page'>Home Page</a>
+    </li><li>
+      <a href='achievements.html' title='Our Achievements'>Achievements</a>
+    </li><li>
+      <a href='history.html' title='A Brief History of Field Of Dreams'>A Brief History</a>
+    </li><li>
+      <a href='meet_the_kids.html' title='Meet the Children'>Meet the Children</a>
+    </li><li>
+      <a href='about_sophia.html' title='About Sophia Jardim'>About Sophia Jardim</a>
+    </li><li>
+      <a href='about_fod.html' title='About Field of Dreams'>About Field of Dreams</a>
+    </li><li>
+      <a href='volunteers_funding.html' title='Volunteers &amp; Funding'>Volunteers &amp; Funding</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact Us</a>
+    </li><li>
+      <a href='sitemap.html' title='Sitemap'>&lt;&lt; Sitemap &gt;&gt;</a>
+    </li>
+    </ul>
+    <h2>Sophia Jardim</h2>
+    <a href='about_sophia.html' title='Sophia Jardim'>
+    <img src='imgs/gallery/sm/sophiaSm.jpg' alt='' width='150' height='100' class='navImg' /></a>
+    <div class='quote'>
+      As a shelter for homeless children we plan a safe and secure home by providing care and support, which will lead to: openness, integrity, self-esteem, trust and exposure to education &amp; training.
+    </div>
+    <div class='aRight smTxt italic'>
+      ~ Sophia Jardim
+    </div>
+  </div>
+  <div id='footBreak'></div>
+</div>
+<div id='footer'>
+  <div class='left'>
+    Pictures: Jacaranda tree in back garden of the farm &amp; Casandra with Amanda.
+  </div>
+  <div class='right'>
+    &copy; 2008 Field of Dreams
+  </div>
+</div>
+</body>
+</html>

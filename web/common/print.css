@@ -1,0 +1,46 @@
+/* Field of Dreams || Print CSS
+--------------------------------------------------------------------*/
+
+#headWrapper, #verticalRhNav, #eopTxt, #footer, .linkBack, .linkNext, 
+.smImgL, .smImgR, .aRight, .noPrint, fieldset, hr {
+  display: none;
+}
+#mainContWrapper {
+  width: 100%;
+}
+body, #mainContWrapper, #mainContent, #mainContent .backGround {
+  background: none;
+}
+.quoteLg:before, .quoteLg:after {
+  content: '"';
+  margin: 0;
+}
+.shoutBoxL, .shoutBoxR {
+  border: 1px solid rgb(7,7,7);
+}
+body {
+  background-color: #fff;
+  font-size: 10pt;
+  line-height: 15pt;
+  color: rgb(0,0,0);
+}
+a, a:visited {
+  text-decoration: none;
+  border: none;
+  color: rgb(0,0,0);
+}
+h1, h2 {
+  color: rgb(0,0,0);
+}
+h1 {
+  font-size: 16pt;
+}
+dt, dd {
+  border-bottom: 1px solid rgb(7,7,7);
+}
+.halfL ul li, .halfR ul li, .thirdL ul li, .thirdR ul li {
+  background: none;
+  padding: 0;
+  margin: 0;
+  list-style-type: disc;
+}

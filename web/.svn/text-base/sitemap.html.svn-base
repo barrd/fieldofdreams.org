@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen_common.css');
+    @import url('common/print.css') print;
+    a:visited { color: #666; }
+  /*]]>*/
+  </style>
+  <title>Field of Dreams ~ Sitemap</title>
+</head>
+<body>
+<div id='headWrapper'><a name='TOP' id='TOP'>&nbsp;</a></div>
+<div id='mainContWrapper'>
+  <div id='mainContent'>
+    <div class='contContent'>
+      <img src='imgs/shared/iconNetworkSm.png' alt='img' width='74' height='60' class='singleImgR noPrint' />
+      <h1>Field of Dreams ~ Sitemap</h1>
+      <h2>Select a link from below to visit that page:</h2>
+      <div class='halfL large'>
+        <h2>Field of Dreams:</h2>
+        <ul>
+        <li>
+          <a href='index.html' title='Home Page'>Home Page</a>
+        </li><li>
+          <a href='meet_the_kids.html' title='Meet the Children'>Meet the Children</a>
+        </li><li class='padL'>
+          <a href='rights_responsibilities.html' title='Rights &amp; Responsibilities'>Rights &amp; Responsibilities</a>
+        </li><li>
+          <a href='history.html' title='A Brief History of Field Of Dreams Part 1'>A Brief History Part 1</a>
+        </li><li class='padL'>
+          <a href='history2.html' title='A Brief History of Field Of Dreams Part 2'>A Brief History Part 2</a>
+        </li><li class='padL'>
+          <a href='achievements.html' title='Field Of Dreams Achievements'>Our Achievements</a>
+        </li><li>
+          <a href='about_fod.html' title='About Field of Dreams'>About Field of Dreams</a>
+        </li><li class='padL'>
+          <a href='farmyard.html' title='Our Farmyard'>Our Farmyard</a>
+        </li><li class='padL'>
+          <a href='garden.html' title='Our Vegetable Garden'>Our Vegetable Garden</a>
+        </li><li>
+          <a href='contact.html' title='Contact us'>Contact Field of Dreams</a>
+        </li>
+        </ul>
+        <h2>People, Volunteers &amp; Funding:</h2>
+        <ul>
+        <li>
+          <a href='about_sophia.html' title='About Sophia Jardim'>About Sophia Jardim</a>
+        </li><li class='padL'>
+          <a href='the_jardims.html' title='The Jardim Family'>The Jardim Family</a>
+        </li><li>
+          <a href='volunteers_funding.html' title='Volunteers &amp; Funding'>Volunteers &amp; Funding</a>
+        </li><li class='padL'>
+          <a href='volunteers.html' title='About the Volunteers'>About the Volunteers</a>
+        </li><li class='padL'>
+          <a href='funding.html' title='About the Funding'>About the Funding</a>
+        </li>
+        </ul>
+      </div>
+      <div class='halfR large'>
+        <h2>Listing of Current Boys:</h2>
+        <ul>
+        <li>
+          <a href='boy_tokkie.html' title='Tokkie Fakude'>Tokkie Fakude</a>
+        </li><li>
+          <a href='boy_adain.html' title='Adain Shabangu'>Adain Shabangu</a>
+        </li><li>
+          <a href='boy_bongi.html' title='Bongi Majenge'>Bongi Majenge</a>
+        </li><li>
+          <a href='boy_musa.html' title='Musa Shongwe'>Musa Shongwe</a>
+        </li><li>
+          <a href='boy_sibusiso.html' title='Sibusiso Lekhuleni'>Sibusiso Lekhuleni</a>
+        </li><li>
+          <a href='boy_nhanhla.html' title='Nhanhla Nkambule'>Nhanhla Nkambule</a>
+        </li><li>
+          <a href='boy_tuffy.html' title='Tuffy Ntila'>Tuffy Ntila</a>
+        </li>
+        </ul>
+        <h2>Listing of Current Girls:</h2>
+        <ul>
+        <li>
+          <a href='girl_amanda.html' title='Amanda Thabethe'>Amanda Thabethe</a>
+        </li><li>
+          <a href='girl_gladness.html' title='Gladness Majozi'>Gladness Majozi</a>
+        </li><li>
+          <a href='girl_emelda.html' title='Emelda Masina'>Emelda Masina</a>
+        </li><li>
+          <a href='girl_lindy.html' title='Lindy Silinda'>Lindy Silinda</a>
+        </li><li>
+          <a href='girl_caty.html' title='Caty Lunglo'>Caty Lunglo</a>
+        </li><li>
+          <a href='girl_masesi.html' title='Masesi Nkosi'>Masesi Nkosi</a>
+        </li><li>
+          <a href='girl_catrina.html' title='Catrina Mabila'>Catrina Mabila</a>
+        </li>
+        </ul>
+      </div>
+      <div id='eopTxt'>
+        // Ends &nbsp; <a href='#TOP' title='Top of Page'>^ Top of Page</a>
+      </div> 
+    </div>
+  </div>
+  <div id='verticalRhNav'>
+    <h2>Main content links</h2>
+    <ul>
+    <li>
+      <a href='index.html' title='Home Page'>Home Page</a>
+    </li><li>
+      <a href='achievements.html' title='Our Achievements'>Achievements</a>
+    </li><li>
+      <a href='history.html' title='A Brief History of Field Of Dreams'>A Brief History</a>
+    </li><li>
+      <a href='meet_the_kids.html' title='Meet the Children'>Meet the Children</a>
+    </li><li>
+      <a href='about_sophia.html' title='About Sophia Jardim'>About Sophia Jardim</a>
+    </li><li>
+      <a href='about_fod.html' title='About Field of Dreams'>About Field of Dreams</a>
+    </li><li>
+      <a href='volunteers_funding.html' title='Volunteers &amp; Funding'>Volunteers &amp; Funding</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact Us</a>
+    </li><li>
+      <a href='sitemap.html' title='Sitemap'>&lt;&lt; Sitemap &gt;&gt;</a>
+    </li>
+    </ul>
+    <h2>Sophia Jardim</h2>
+    <a href='about_sophia.html' title='Sophia Jardim'>
+    <img src='imgs/gallery/sm/sophiaSm.jpg' alt='' width='150' height='100' class='navImg' /></a>
+    <div class='quote'>
+      As a shelter for homeless children we plan a safe and secure home by providing care and support, which will lead to: openness, integrity, self-esteem, trust and exposure to education &amp; training.
+    </div>
+    <div class='aRight smTxt italic'>
+      ~ Sophia Jardim
+    </div>
+  </div>
+  <div id='footBreak'></div>
+</div>
+<div id='footer'>
+  <div class='left'>
+    Pictures: Jacaranda tree in back garden of the farm &amp; Casandra with Amanda.
+  </div>
+  <div class='right'>
+    &copy; 2008 Field of Dreams
+  </div>
+</div>
+</body>
+</html>

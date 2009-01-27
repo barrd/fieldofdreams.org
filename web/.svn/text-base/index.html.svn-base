@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen_common.css');
+    @import url('common/print.css') print;
+  /*]]>*/
+  </style>
+  <title>Field of Dreams ~ Home Page</title>
+</head>
+<body>
+<div id='headWrapper'><a name='TOP' id='TOP'>&nbsp;</a></div>
+<div id='mainContWrapper'>
+  <div id='mainContent'>
+    <div class='contContent'>
+      <h1>Welcome to the Field of Dreams Home Page</h1>
+      <img src='imgs/gallery/sm/gardenFODWide.jpg' alt='img' width='490' height='120' />
+      <h2>A short introduction to Field of Dreams:</h2>
+      <p>
+      <img src='imgs/shared/iconFlowerSm.png' alt='img' width='63' height='60' class='singleImgL noPrint' />
+      Field of Dreams was created when Sophia Jardim put her dream into reality; to create a different environment from the orphanages and care centres for children from surrounding poverty stricken areas. Field of Dreams is a space where children can experience what life is about; love, care, and being heard as a child. Please select a link below for more information, or select another link from the right hand menu.
+      <a href='history.html' title='History Part 1' class='txtLink'>Read our brief history</a> or the
+      <a href='achievements.html' title='Achievements' class='txtLink'>Field of Dreams achievements</a> page.
+      </p>
+      <h2>We need your help &amp; support:</h2>
+      <p>
+      <img src='imgs/shared/iconFlowerSm.png' alt='img' width='63' height='60' class='singleImgR noPrint' />
+      Funding is always a problem. With very little Government financial support, we are constantly struggling to make ends meet. Only six children within our care are covered by any form of Governmental fiscal aid and this is obviously very inadequate. If you are capable or willing to lend support in any form then please <a href='contact.html' title='Contact us' class='txtLink'>contact us</a> by eMail. We look forward to hearing from you.
+      </p>
+      <div class='aRight'>
+        <a href='funding.html' title='Read more about Funding' class='linkNext'>Read more about Funding</a>
+      </div>
+      <br class='brB' />
+      <h2>Important areas that we feel need to be met:</h2>
+      <p>
+      The bullet points below are a brief outline of where our objectives lie, within this site are more pages to explain many in more detail.
+      </p>
+      <div class='halfL noLink'>
+        <h2>Our Focus Points:</h2>
+        <ul>
+        <li>
+          That their voices must be heard
+        </li><li>
+          Create a space where they feel safe
+        </li><li>
+          A loving environment during school holidays
+        </li><li>
+          Experience and respect of other cultures
+        </li><li>
+          Being in touch with nature
+        </li><li>
+          Team spirit and team building
+        </li><li>
+          Belief in themselves (self confidence)
+        </li>
+        </ul>
+      </div>
+      <div class='halfR noLink'>
+        <h2>Our Key Objectives:</h2>
+        <ul>
+        <li>
+          To make the world a better place
+        </li><li>
+          To give children a chance in life      
+        </li><li>
+          To let mankind respect each others cultures
+        </li><li>
+          To let children have a childhood
+        </li><li>
+          Enable the children to have an education
+        </li>
+        </ul>
+      </div>
+      <div id='eopTxt'>
+        // Ends &nbsp; <a href='#TOP' title='Top of Page'>^ Top of Page</a>
+      </div> 
+    </div>
+  </div>
+  <div id='verticalRhNav'>
+    <h2>Main content links</h2>
+    <ul>
+    <li>
+      <a href='index.html' title='Home Page'>Home Page</a>
+    </li><li>
+      <a href='achievements.html' title='Our Achievements'>Achievements</a>
+    </li><li>
+      <a href='history.html' title='A Brief History of Field Of Dreams'>A Brief History</a>
+    </li><li>
+      <a href='meet_the_kids.html' title='Meet the Children'>Meet the Children</a>
+    </li><li>
+      <a href='about_sophia.html' title='About Sophia Jardim'>About Sophia Jardim</a>
+    </li><li>
+      <a href='about_fod.html' title='About Field of Dreams'>About Field of Dreams</a>
+    </li><li>
+      <a href='volunteers_funding.html' title='Volunteers &amp; Funding'>Volunteers &amp; Funding</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact Us</a>
+    </li><li>
+      <a href='sitemap.html' title='Sitemap'>&lt;&lt; Sitemap &gt;&gt;</a>
+    </li>
+    </ul>
+    <h2>Sophia Jardim</h2>
+    <a href='about_sophia.html' title='Sophia Jardim'>
+    <img src='imgs/gallery/sm/sophiaSm.jpg' alt='' width='150' height='100' class='navImg' /></a>
+    <div class='quote'>
+      As a shelter for homeless children we plan a safe and secure home by providing care and support, which will lead to: openness, integrity, self-esteem, trust and exposure to education &amp; training.
+    </div>
+    <div class='aRight smTxt italic'>
+      ~ Sophia Jardim
+    </div>
+  </div>
+  <div id='footBreak'></div>
+</div>
+<div id='footer'>
+  <div class='left'>
+    Pictures: Jacaranda tree in back garden of the farm &amp; Casandra with Amanda.
+  </div>
+  <div class='right'>
+    &copy; 2008 Field of Dreams
+  </div>
+</div>
+</body>
+</html>

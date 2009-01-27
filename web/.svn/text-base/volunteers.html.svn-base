@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen_common.css');
+    @import url('common/print.css') print;
+  /*]]>*/
+  </style>
+  <title>Field of Dreams ~ About the Volunteers</title>
+</head>
+<body>
+<div id='headWrapper'><a name='TOP' id='TOP'>&nbsp;</a></div>
+<div id='mainContWrapper'>
+  <div id='mainContent'>
+    <div class='contContent'>
+      <h1>Field of Dreams ~ About the Volunteers</h1>
+      <img src='imgs/gallery/sm/volunteerSm1.jpg' alt='Sophia 1' width='230' height='155' class='singleImgL' />
+      <img src='imgs/gallery/sm/volunteerSm2.jpg' alt='Sophia 2' width='230' height='155' class='singleImgR' />
+      <br class='brB' />
+      <h2>Details &amp; Requirements for our Volunteer Workers:</h2>
+      <b>Education requirements for the children:</b>
+      <div class='bq'>
+        <div class='shoutBoxR'>
+          "Thank you for everything, you have given these children life, love and so much more..."
+        </div>
+        <p>
+        The intention is to be able to get volunteers from different countries internationally to teach our children and the children at the local school in our community.
+        </p><p>
+        This would include setting up and maintaining class rooms for children at different age groups and skill levels. Our intention is also to establish a pre-school group to start the education process as early as possible.
+        </p><p>
+        We also need assistance with our local schools (different age groups) as the numbers of competent teachers we feel is inadequate. A TEFL certificate would be a huge advantage as well, the children speak SiSwati, Afrikaans and English. 
+        </p>
+      </div>
+      <h2>Sharing Your Life skills &amp; skill sets:</h2>
+      <b>Life skills:</b>
+      <div class='bq'>
+        <div class='shoutBoxL'>
+          "Staying here has been one of the most wonderful formative experiences of my life..."
+        </div>
+        Everyone has skills that children of all ages could learn from. We are looking for not only professionals but also people that can help with the 'small' things that a child could learn. Building a fire, being able to cook and make decisions based on available ingredients etc. Survival and life skills that you may have we could use to good effect.
+      </div>
+      <br />
+      <b>Skill sets:</b>
+      <div class='bq'>
+        <div class='shoutBoxR'>
+          "Great place, really nice, children all needing a little love and attention..."
+        </div>
+        Any professionals, especially in the fields of Music, Arts and Crafts would also obviously be a huge bonus. But many types of skilled help are needed, as an example, stasticians who could help build data sets to better help us understand the requirements of the local community. Many of our planned projects could certainly do with the assistance of trained engineers or any form of trained professional. If you have any kind of professional background and feel that you could help then please let us know.
+      </div>
+      <br />
+      <b>Sharing your life experiences:</b>
+      <div class='bq'>
+        <div class='shoutBoxL'>
+          "We've had a wonderful time here, everything was marvelous. May God bless you, all in the name of love..."
+        </div>
+        <p>
+        We feel it is a vital part of our children's education that they experience as many different cultures as possible. To that end we have no restrictions on race, creed or colour of any volunteer.
+        </p><p>
+        Your experiences and the willingness to share them would be appreciated. The children will in all likelihood never have the opportunity to leave the province never mind the country or continent. Therefore, hearing about the World at large from real people and not just books or television is an experience for them that could transform their lives.
+        </p>
+      </div>
+      <div class='aRight'>
+        <p>------ Continue ---</p>
+        <a href='volunteers_funding.html' title='Volunteers &amp; Funding' class='linkBack'>Back to Volunteers &amp; Funding</a> 
+        &nbsp; &#93; &#91; &nbsp; 
+        <a href='funding.html' title='About the Funding' class='linkNext'>Continue to Funding</a>
+      </div>
+      <div id='eopTxt'>
+        // Ends &nbsp; <a href='#TOP' title='Top of Page'>^ Top of Page</a>
+      </div> 
+    </div>
+  </div>
+  <div id='verticalRhNav'>
+    <h2>Main content links</h2>
+    <ul>
+    <li>
+      <a href='index.html' title='Home Page'>Home Page</a>
+    </li><li>
+      <a href='achievements.html' title='Our Achievements'>Achievements</a>
+    </li><li>
+      <a href='history.html' title='A Brief History of Field Of Dreams'>A Brief History</a>
+    </li><li>
+      <a href='meet_the_kids.html' title='Meet the Children'>Meet the Children</a>
+    </li><li>
+      <a href='about_sophia.html' title='About Sophia Jardim'>About Sophia Jardim</a>
+    </li><li>
+      <a href='about_fod.html' title='About Field of Dreams'>About Field of Dreams</a>
+    </li><li>
+      <a href='volunteers_funding.html' title='Volunteers &amp; Funding'>Volunteers &amp; Funding</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact Us</a>
+    </li><li>
+      <a href='sitemap.html' title='Sitemap'>&lt;&lt; Sitemap &gt;&gt;</a>
+    </li>
+    </ul>
+    <h2>Sophia Jardim</h2>
+    <a href='about_sophia.html' title='Sophia Jardim'>
+    <img src='imgs/gallery/sm/sophiaSm.jpg' alt='' width='150' height='100' class='navImg' /></a>
+    <div class='quote'>
+      As a shelter for homeless children we plan a safe and secure home by providing care and support, which will lead to: openness, integrity, self-esteem, trust and exposure to education &amp; training.
+    </div>
+    <div class='aRight smTxt italic'>
+      ~ Sophia Jardim
+    </div>
+  </div>
+  <div id='footBreak'></div>
+</div>
+<div id='footer'>
+  <div class='left'>
+    Pictures: Jacaranda tree in back garden of the farm &amp; Casandra with Amanda.
+  </div>
+  <div class='right'>
+    &copy; 2008 Field of Dreams
+  </div>
+</div>
+</body>
+</html>
